@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ssl_cert")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a3092dcea19593afe564d41efca968dd115b415")]
 [assembly: System.Reflection.AssemblyProductAttribute("ssl_cert")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ssl_cert")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
